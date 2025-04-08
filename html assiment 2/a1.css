@@ -1,0 +1,42 @@
+ /* Body Styling */
+ body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: white;
+  }
+
+  /* Header Styling */
+  header {
+    background-color: #d1b2f3;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    border: 2px solid black;
+  }
+
+  /* Main Content Box */
+  .content {
+    background-color: #e89cae;
+    padding: 20px;
+    margin-top: 20px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+
+  /* Text Section */
+  .text {
+    width: 75%;
+  }
+
+  /* Image Styling */
+  .image {
+    width: 20%;
+  }
+
+  .image img {
+    width: 100%;
+    border-radius: 5px;
+  }

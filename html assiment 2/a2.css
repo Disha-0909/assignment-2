@@ -1,0 +1,27 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #e691d0; /* pink background */
+  font-family: Arial, sans-serif;
+}
+
+/* Header Section */
+.header {
+  background-color: #e899b1;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 15px;
+  border: 2px solid black;
+  margin: 20px;
+}
+
+/* Content Box */
+.content {
+  background-color: #e2a1a1;
+  margin: 0 20px 30px 20px;
+  padding: 20px;
+  border: 2px solid black;
+  font-size: 18px;
+}
